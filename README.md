@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hai-Binh Nguyen</h1>
 <h3 align="center">A die hard developer.</h3>
+
+I architect and build complete systems from hardware provisioning to full-stack software development. So, don't ask if I 'kNoW hOw To cOdE a WeBsItE'—I create full-fledged, scalable, cloud-native solutions.
+
 <h3 align="left">Connect with me:</h3>
 
 - 📫 Reach me at **me@hbinhng.dev**
